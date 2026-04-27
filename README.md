@@ -5,7 +5,7 @@ This project aims to perform sentiment analysis on Twitter data related to vario
 
 ## Dataset
 The dataset used for this project is `twitter_training.csv`, which contains tweets with corresponding sentiment labels. The columns in the dataset are:
-- `[Unnamed Column]`: An identifier (dropped during preprocessing).
+- `2401`: An identifier (dropped during preprocessing).
 - `Borderlands`: Original column name for the technology company/product.
 - `Positive`: Original column name for the sentiment label.
 - `im getting on borderlands and i will murder you all ,`: Original column name for the tweet text.
